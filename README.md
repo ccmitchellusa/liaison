@@ -95,6 +95,8 @@ This project is distributed by the Dojo Foundation and licensed under the ["New"
 All contributions require a [Dojo Foundation CLA](http://dojofoundation.org/about/claForm).
 
 ## Dependencies
+[![Dependency Status](https://david-dm.org/ibm-js/liaison.png)](https://david-dm.org/ibm-js/liaison)
+[![devDependency Status](https://david-dm.org/ibm-js/liaison/dev-status.png)](https://david-dm.org/ibm-js/liaison#info=devDependencies)
 
 This project requires AMD loader ([requirejs](http://requirejs.org/) or [Dojo](http://dojotoolkit.org/)) to run in browser.
 
